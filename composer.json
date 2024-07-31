@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/bolt",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "lekhazakon",
+      "email": "lekhazakon@shustalep.ru"
+    }
+  ],
+  "require": {
+  }
+}
